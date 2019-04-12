@@ -9,8 +9,8 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_url = 'https://drive.google.com/uc?export=download&confirm=viQW&id=1BdHEw7ILynRZKJf4hAP65aINubkljla_'
-export_file_name = 'stage-2-50-224.pkl'
+export_file_url = 'https://drive.google.com/uc?id=1fqb_kkp5c_fsY5Yk7TcWxDYrX3dMHAGL&export=download'
+export_file_name = 'export.pkl'
 
 classes = ['Parasitized', 'Uninfected']
 path = Path(__file__).parent
